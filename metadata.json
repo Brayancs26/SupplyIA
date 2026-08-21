@@ -1,0 +1,6 @@
+{
+  "name": "Aprovisionamiento y Optimización de Inventarios AI",
+  "description": "Sistema inteligente de aprovisionamiento de materiales, análisis de consumos históricos, cálculo de stock de seguridad, punto de reorden (ROP), EOQ y control de sobrestock/quiebres con IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
